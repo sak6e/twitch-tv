@@ -1,0 +1,21 @@
+.outer{
+  border-width:10px;
+  border:10px solid green;
+}
+.head{
+  text-align:center;
+}
+.img{
+  border-radius:300px;
+  border-color:green;
+  border-width:5px;
+  width:30px;
+  margin-top:5px;
+  margin-bottom:5px;
+}
+.in{
+  background-color:green;
+}
+a{
+  color:white;
+}
